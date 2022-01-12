@@ -1,4 +1,4 @@
-# ANOP330
+# ANOP 330
 Files for Bucknell's ANOP 330 Predictive Analytics Class
 
 Data can be accessed directly by linking to the raw data link. For example:
